@@ -84,3 +84,4 @@ page to choose a stable version to use, avoid the `@stable` meta constraint.
 ## License
 
 h4cc/stack-psr7-bridge is released under the MIT License. See the bundled LICENSE file for details.
+
