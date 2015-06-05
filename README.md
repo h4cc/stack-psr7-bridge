@@ -6,8 +6,8 @@
 [![Build Status](https://travis-ci.org/h4cc/stack-psr7-bridge.svg)](https://travis-ci.org/h4cc/stack-psr7-bridge)
 [![HHVM Status](http://hhvm.h4cc.de/badge/h4cc/stack-psr7-bridge.svg)](http://hhvm.h4cc.de/package/h4cc/stack-psr7-bridge)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/h4cc/stack-psr7-bridge/badges/quality-score.png)](https://scrutinizer-ci.com/g/h4cc/stack-psr7-bridge/)
-[![Code Coverage](https://scrutinizer-ci.com/g/h4cc/stack-psr7-bridge/badges/coverage.svg)](https://scrutinizer-ci.com/g/h4cc/stack-psr7-bridge/)
-[![Project Status](http://stillmaintained.com/h4cc/stack-psr7-bridge.svg)](http://stillmaintained.com/h4cc/stack-psr7-bridge)
+[![Code Coverage](https://scrutinizer-ci.com/g/h4cc/stack-psr7-bridge/badges/coverage.png)](https://scrutinizer-ci.com/g/h4cc/stack-psr7-bridge/)
+[![Project Status](http://stillmaintained.com/h4cc/stack-psr7-bridge.png)](http://stillmaintained.com/h4cc/stack-psr7-bridge)
 
 
 ## Installation
