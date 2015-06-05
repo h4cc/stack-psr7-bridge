@@ -8,6 +8,9 @@
       "email": "github@h4cc.de"
     }
   ],
+  "require": {
+    "php": ">=5.4.0"
+  },
   "require-dev": {
     "psr/http-message": "^1.0",
     "symfony/http-foundation": "~2.1",
