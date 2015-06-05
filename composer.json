@@ -1,6 +1,6 @@
 {
-  "name": "h4cc/stack-psr-bridge-middleware",
-  "description": "StackPHP Middleware for converting Http abstractions to PSR-7 and back.",
+  "name": "h4cc/stack-psr7-bridge",
+  "description": "StackPHP Middleware for converting Symfony Http abstractions to PSR-7 and back.",
   "license": "MIT",
   "authors": [
     {
