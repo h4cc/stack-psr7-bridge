@@ -1,7 +1,6 @@
 # h4cc/stack-psr7-bridge
 
-
-[StackPHP](http://stackphp.com/) Middleware for using Symfony HttpKernel Applicationsand PSR-7 Application transparent.
+[StackPHP](http://stackphp.com/) Middleware for using [Symfony HttpKernel](http://symfony.com/doc/current/components/http_kernel/introduction.html) Applications and [PSR-7](https://github.com/php-fig/http-message) Application transparent.
 
 [![Build Status](https://travis-ci.org/h4cc/stack-psr7-bridge.svg)](https://travis-ci.org/h4cc/stack-psr7-bridge)
 [![HHVM Status](https://img.shields.io/hhvm/h4cc/stack-psr7-bridge.svg)](http://hhvm.h4cc.de/package/h4cc/stack-psr7-bridge)
@@ -16,8 +15,7 @@ Wrapped applications can be:
 - Any Symfony HttpKernel
 - Any Callback expecting `function(RequestInterface $request, ResponseInterface $response, $next = null)`
 
-It does not matter what kind of application is wrapped, the bridge will convert incoming requests and outgoing responses accordingly
-to the used interface.
+It does not matter what kind of application is wrapped, the bridge will convert incoming requests and outgoing responses accordingly to the used interface.
 
 The implementation this middleware is based on is [https://github.com/symfony/psr-http-message-bridge](https://github.com/symfony/psr-http-message-bridge).
 
