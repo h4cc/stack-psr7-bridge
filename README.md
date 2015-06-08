@@ -7,7 +7,6 @@
 [![HHVM Status](https://img.shields.io/hhvm/h4cc/stack-psr7-bridge.svg)](http://hhvm.h4cc.de/package/h4cc/stack-psr7-bridge)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/h4cc/stack-psr7-bridge/badges/quality-score.png)](https://scrutinizer-ci.com/g/h4cc/stack-psr7-bridge/)
 [![Code Coverage](https://scrutinizer-ci.com/g/h4cc/stack-psr7-bridge/badges/coverage.png)](https://scrutinizer-ci.com/g/h4cc/stack-psr7-bridge/)
-[![Project Status](http://stillmaintained.com/h4cc/stack-psr7-bridge.png)](http://stillmaintained.com/h4cc/stack-psr7-bridge)
 
 
 This Middleware tries to make using Symfony HttpKernel Application and PSR-7 as easy as possible.
