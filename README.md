@@ -65,12 +65,8 @@ $symfonyResponse = $bridge->_handle($symfonyRequest);
 
 The recommended way to install stack-psr7-bridge is through [Composer](http://getcomposer.org/):
 
-``` json
-{
-    "require": {
-        "h4cc/stack-psr7-bridge": "@stable"
-    }
-}
+```
+composer require h4cc/stack-psr7-bridge
 ```
 
 **Protip:** you should browse the [`h4cc/stack-psr7-bridge`](https://packagist.org/packages/h4cc/stack-psr7-bridge)
